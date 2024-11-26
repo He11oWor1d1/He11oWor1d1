@@ -14,7 +14,7 @@ I'm Yahan, a full-stack web developer with a love for bringing ideas to life thr
 I’m constantly improving my skills and exploring new technologies in the world of web development. Feel free to follow me as I grow and share my learning journey!
 
 ## 💬 Let's Connect!
-- [Email](mailto:yyh01126228789@gmail.com) 
+- [yyh01126228789@gmail.com](mailto:yyh01126228789@gmail.com) 
 
 ## 🌱 Goals
  I’m currently learning Django.
